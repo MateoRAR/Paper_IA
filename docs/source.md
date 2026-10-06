@@ -1,4 +1,4 @@
-# Descripcion task
+# Descripcion
 Sistemas con supervisión humana explícita, explicabilidad y control de sesgos. Las revisiones destacan alucinaciones, sesgos, falta de explicabilidad y la necesidad de validación clínica.
 
 # Articulo base
